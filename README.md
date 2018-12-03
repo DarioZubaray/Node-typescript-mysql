@@ -24,3 +24,8 @@ tsc && npm run copyHtml
 ó
 npm run build
 ```
+
+### Ejecutar la aplicacion
+```
+node dist/index
+```
